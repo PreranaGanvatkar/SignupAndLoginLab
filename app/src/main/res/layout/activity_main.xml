@@ -17,7 +17,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginEnd="164dp"
         android:layout_marginBottom="315dp"
-        android:text="Signup" />
+        android:text="Sign Up" />
 
     <TextView
         android:id="@+id/textView7"
@@ -27,7 +27,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="47dp"
         android:textColor="#e30b7b"
-        android:textSize="28dp"
+        android:textSize="38dp"
         android:text="Signup Activity" />
 
     <TextView
@@ -63,6 +63,7 @@
         android:layout_marginTop="123dp"
         android:layout_marginEnd="53dp"
         android:ems="10"
+        android:hint="Email ID"
         android:inputType="textPersonName"
         android:text="" />
 
@@ -75,6 +76,7 @@
         android:layout_marginTop="200dp"
         android:layout_marginEnd="53dp"
         android:ems="10"
+        android:hint="Password"
         android:inputType="textPersonName"
         android:text="" />
 </RelativeLayout>

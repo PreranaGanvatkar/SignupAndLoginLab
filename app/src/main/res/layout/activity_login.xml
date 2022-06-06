@@ -13,11 +13,11 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginStart="116dp"
+        android:layout_marginStart="92dp"
         android:layout_marginTop="51dp"
         android:text="Login Activity"
         android:textColor="#fc0362"
-        android:textSize="28dp" />
+        android:textSize="38dp" />
 
     <TextView
         android:id="@+id/textView3"
@@ -52,6 +52,7 @@
         android:layout_marginTop="130dp"
         android:layout_marginEnd="44dp"
         android:ems="10"
+        android:hint="Email ID"
         android:inputType="textPersonName"
         android:text="" />
 
@@ -64,6 +65,7 @@
         android:layout_marginTop="223dp"
         android:layout_marginEnd="41dp"
         android:ems="10"
+        android:hint="Password"
         android:inputType="textPersonName"
         android:text="" />
 
